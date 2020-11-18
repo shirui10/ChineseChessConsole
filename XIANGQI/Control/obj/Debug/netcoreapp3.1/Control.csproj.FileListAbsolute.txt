@@ -1,0 +1,77 @@
+/Users/shirui/Desktop/XIANGQI/Control/bin/Debug/netcoreapp3.1/Control.deps.json
+/Users/shirui/Desktop/XIANGQI/Control/bin/Debug/netcoreapp3.1/Control.runtimeconfig.json
+/Users/shirui/Desktop/XIANGQI/Control/bin/Debug/netcoreapp3.1/Control.runtimeconfig.dev.json
+/Users/shirui/Desktop/XIANGQI/Control/bin/Debug/netcoreapp3.1/Control.dll
+/Users/shirui/Desktop/XIANGQI/Control/bin/Debug/netcoreapp3.1/Control.pdb
+/Users/shirui/Desktop/XIANGQI/Control/bin/Debug/netcoreapp3.1/Model.dll
+/Users/shirui/Desktop/XIANGQI/Control/bin/Debug/netcoreapp3.1/Model.pdb
+/Users/shirui/Desktop/XIANGQI/Control/obj/Debug/netcoreapp3.1/Control.csprojAssemblyReference.cache
+/Users/shirui/Desktop/XIANGQI/Control/obj/Debug/netcoreapp3.1/Control.AssemblyInfoInputs.cache
+/Users/shirui/Desktop/XIANGQI/Control/obj/Debug/netcoreapp3.1/Control.AssemblyInfo.cs
+/Users/shirui/Desktop/XIANGQI/Control/obj/Debug/netcoreapp3.1/Control.csproj.CoreCompileInputs.cache
+/Users/shirui/Desktop/XIANGQI/Control/obj/Debug/netcoreapp3.1/Control.csproj.CopyComplete
+/Users/shirui/Desktop/XIANGQI/Control/obj/Debug/netcoreapp3.1/Control.dll
+/Users/shirui/Desktop/XIANGQI/Control/obj/Debug/netcoreapp3.1/Control.pdb
+/Users/shirui/Desktop/XIANGQI/Control/obj/Debug/netcoreapp3.1/Control.genruntimeconfig.cache
+G:/XIANGQI的副本/Control/bin/Debug/netcoreapp3.1/Model.exe
+G:/XIANGQI的副本/Control/bin/Debug/netcoreapp3.1/Control.exe
+G:/XIANGQI的副本/Control/bin/Debug/netcoreapp3.1/Control.deps.json
+G:/XIANGQI的副本/Control/bin/Debug/netcoreapp3.1/Control.runtimeconfig.json
+G:/XIANGQI的副本/Control/bin/Debug/netcoreapp3.1/Control.runtimeconfig.dev.json
+G:/XIANGQI的副本/Control/bin/Debug/netcoreapp3.1/Control.dll
+G:/XIANGQI的副本/Control/bin/Debug/netcoreapp3.1/Control.pdb
+G:/XIANGQI的副本/Control/bin/Debug/netcoreapp3.1/Model.dll
+G:/XIANGQI的副本/Control/bin/Debug/netcoreapp3.1/Model.pdb
+G:/XIANGQI的副本/Control/obj/Debug/netcoreapp3.1/Control.csprojAssemblyReference.cache
+G:/XIANGQI的副本/Control/obj/Debug/netcoreapp3.1/Control.AssemblyInfoInputs.cache
+G:/XIANGQI的副本/Control/obj/Debug/netcoreapp3.1/Control.AssemblyInfo.cs
+G:/XIANGQI的副本/Control/obj/Debug/netcoreapp3.1/Control.csproj.CoreCompileInputs.cache
+G:/XIANGQI的副本/Control/obj/Debug/netcoreapp3.1/Control.csproj.CopyComplete
+G:/XIANGQI的副本/Control/obj/Debug/netcoreapp3.1/Control.dll
+G:/XIANGQI的副本/Control/obj/Debug/netcoreapp3.1/Control.pdb
+G:/XIANGQI的副本/Control/obj/Debug/netcoreapp3.1/Control.genruntimeconfig.cache
+/Users/shirui/Desktop/C# 象棋/XIANGQI for Windows/Control/bin/Debug/netcoreapp3.1/Control.deps.json
+/Users/shirui/Desktop/C# 象棋/XIANGQI for Windows/Control/bin/Debug/netcoreapp3.1/Control.runtimeconfig.json
+/Users/shirui/Desktop/C# 象棋/XIANGQI for Windows/Control/bin/Debug/netcoreapp3.1/Control.runtimeconfig.dev.json
+/Users/shirui/Desktop/C# 象棋/XIANGQI for Windows/Control/bin/Debug/netcoreapp3.1/Control.dll
+/Users/shirui/Desktop/C# 象棋/XIANGQI for Windows/Control/bin/Debug/netcoreapp3.1/Control.pdb
+/Users/shirui/Desktop/C# 象棋/XIANGQI for Windows/Control/bin/Debug/netcoreapp3.1/Model.dll
+/Users/shirui/Desktop/C# 象棋/XIANGQI for Windows/Control/bin/Debug/netcoreapp3.1/Model.pdb
+/Users/shirui/Desktop/C# 象棋/XIANGQI for Windows/Control/obj/Debug/netcoreapp3.1/Control.csprojAssemblyReference.cache
+/Users/shirui/Desktop/C# 象棋/XIANGQI for Windows/Control/obj/Debug/netcoreapp3.1/Control.AssemblyInfoInputs.cache
+/Users/shirui/Desktop/C# 象棋/XIANGQI for Windows/Control/obj/Debug/netcoreapp3.1/Control.AssemblyInfo.cs
+/Users/shirui/Desktop/C# 象棋/XIANGQI for Windows/Control/obj/Debug/netcoreapp3.1/Control.csproj.CoreCompileInputs.cache
+/Users/shirui/Desktop/C# 象棋/XIANGQI for Windows/Control/obj/Debug/netcoreapp3.1/Control.csproj.CopyComplete
+/Users/shirui/Desktop/C# 象棋/XIANGQI for Windows/Control/obj/Debug/netcoreapp3.1/Control.dll
+/Users/shirui/Desktop/C# 象棋/XIANGQI for Windows/Control/obj/Debug/netcoreapp3.1/Control.pdb
+/Users/shirui/Desktop/C# 象棋/XIANGQI for Windows/Control/obj/Debug/netcoreapp3.1/Control.genruntimeconfig.cache
+/Users/shirui/Desktop/C#XiangQi/XIANGQI for Windows/Control/bin/Debug/netcoreapp3.1/Control.deps.json
+/Users/shirui/Desktop/C#XiangQi/XIANGQI for Windows/Control/bin/Debug/netcoreapp3.1/Control.runtimeconfig.json
+/Users/shirui/Desktop/C#XiangQi/XIANGQI for Windows/Control/bin/Debug/netcoreapp3.1/Control.runtimeconfig.dev.json
+/Users/shirui/Desktop/C#XiangQi/XIANGQI for Windows/Control/bin/Debug/netcoreapp3.1/Control.dll
+/Users/shirui/Desktop/C#XiangQi/XIANGQI for Windows/Control/bin/Debug/netcoreapp3.1/Control.pdb
+/Users/shirui/Desktop/C#XiangQi/XIANGQI for Windows/Control/bin/Debug/netcoreapp3.1/Model.dll
+/Users/shirui/Desktop/C#XiangQi/XIANGQI for Windows/Control/bin/Debug/netcoreapp3.1/Model.pdb
+/Users/shirui/Desktop/C#XiangQi/XIANGQI for Windows/Control/obj/Debug/netcoreapp3.1/Control.csprojAssemblyReference.cache
+/Users/shirui/Desktop/C#XiangQi/XIANGQI for Windows/Control/obj/Debug/netcoreapp3.1/Control.AssemblyInfoInputs.cache
+/Users/shirui/Desktop/C#XiangQi/XIANGQI for Windows/Control/obj/Debug/netcoreapp3.1/Control.AssemblyInfo.cs
+/Users/shirui/Desktop/C#XiangQi/XIANGQI for Windows/Control/obj/Debug/netcoreapp3.1/Control.csproj.CoreCompileInputs.cache
+/Users/shirui/Desktop/C#XiangQi/XIANGQI for Windows/Control/obj/Debug/netcoreapp3.1/Control.csproj.CopyComplete
+/Users/shirui/Desktop/C#XiangQi/XIANGQI for Windows/Control/obj/Debug/netcoreapp3.1/Control.dll
+/Users/shirui/Desktop/C#XiangQi/XIANGQI for Windows/Control/obj/Debug/netcoreapp3.1/Control.pdb
+/Users/shirui/Desktop/C#XiangQi/XIANGQI for Windows/Control/obj/Debug/netcoreapp3.1/Control.genruntimeconfig.cache
+/Users/shirui/Desktop/ChineseChess/XIANGQI/Control/bin/Debug/netcoreapp3.1/Control.deps.json
+/Users/shirui/Desktop/ChineseChess/XIANGQI/Control/bin/Debug/netcoreapp3.1/Control.runtimeconfig.json
+/Users/shirui/Desktop/ChineseChess/XIANGQI/Control/bin/Debug/netcoreapp3.1/Control.runtimeconfig.dev.json
+/Users/shirui/Desktop/ChineseChess/XIANGQI/Control/bin/Debug/netcoreapp3.1/Control.dll
+/Users/shirui/Desktop/ChineseChess/XIANGQI/Control/bin/Debug/netcoreapp3.1/Control.pdb
+/Users/shirui/Desktop/ChineseChess/XIANGQI/Control/bin/Debug/netcoreapp3.1/Model.dll
+/Users/shirui/Desktop/ChineseChess/XIANGQI/Control/bin/Debug/netcoreapp3.1/Model.pdb
+/Users/shirui/Desktop/ChineseChess/XIANGQI/Control/obj/Debug/netcoreapp3.1/Control.csprojAssemblyReference.cache
+/Users/shirui/Desktop/ChineseChess/XIANGQI/Control/obj/Debug/netcoreapp3.1/Control.AssemblyInfoInputs.cache
+/Users/shirui/Desktop/ChineseChess/XIANGQI/Control/obj/Debug/netcoreapp3.1/Control.AssemblyInfo.cs
+/Users/shirui/Desktop/ChineseChess/XIANGQI/Control/obj/Debug/netcoreapp3.1/Control.csproj.CoreCompileInputs.cache
+/Users/shirui/Desktop/ChineseChess/XIANGQI/Control/obj/Debug/netcoreapp3.1/Control.csproj.CopyComplete
+/Users/shirui/Desktop/ChineseChess/XIANGQI/Control/obj/Debug/netcoreapp3.1/Control.dll
+/Users/shirui/Desktop/ChineseChess/XIANGQI/Control/obj/Debug/netcoreapp3.1/Control.pdb
+/Users/shirui/Desktop/ChineseChess/XIANGQI/Control/obj/Debug/netcoreapp3.1/Control.genruntimeconfig.cache

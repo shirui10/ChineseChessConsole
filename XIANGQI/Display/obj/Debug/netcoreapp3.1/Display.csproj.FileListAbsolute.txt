@@ -1,0 +1,17 @@
+/Users/shirui/Desktop/XIANGQI/Display/bin/Debug/netcoreapp3.1/Display.deps.json
+/Users/shirui/Desktop/XIANGQI/Display/bin/Debug/netcoreapp3.1/Display.runtimeconfig.json
+/Users/shirui/Desktop/XIANGQI/Display/bin/Debug/netcoreapp3.1/Display.runtimeconfig.dev.json
+/Users/shirui/Desktop/XIANGQI/Display/bin/Debug/netcoreapp3.1/Display.dll
+/Users/shirui/Desktop/XIANGQI/Display/bin/Debug/netcoreapp3.1/Display.pdb
+/Users/shirui/Desktop/XIANGQI/Display/bin/Debug/netcoreapp3.1/Control.dll
+/Users/shirui/Desktop/XIANGQI/Display/bin/Debug/netcoreapp3.1/Model.dll
+/Users/shirui/Desktop/XIANGQI/Display/bin/Debug/netcoreapp3.1/Model.pdb
+/Users/shirui/Desktop/XIANGQI/Display/bin/Debug/netcoreapp3.1/Control.pdb
+/Users/shirui/Desktop/XIANGQI/Display/obj/Debug/netcoreapp3.1/Display.csprojAssemblyReference.cache
+/Users/shirui/Desktop/XIANGQI/Display/obj/Debug/netcoreapp3.1/Display.AssemblyInfoInputs.cache
+/Users/shirui/Desktop/XIANGQI/Display/obj/Debug/netcoreapp3.1/Display.AssemblyInfo.cs
+/Users/shirui/Desktop/XIANGQI/Display/obj/Debug/netcoreapp3.1/Display.csproj.CoreCompileInputs.cache
+/Users/shirui/Desktop/XIANGQI/Display/obj/Debug/netcoreapp3.1/Display.csproj.CopyComplete
+/Users/shirui/Desktop/XIANGQI/Display/obj/Debug/netcoreapp3.1/Display.dll
+/Users/shirui/Desktop/XIANGQI/Display/obj/Debug/netcoreapp3.1/Display.pdb
+/Users/shirui/Desktop/XIANGQI/Display/obj/Debug/netcoreapp3.1/Display.genruntimeconfig.cache

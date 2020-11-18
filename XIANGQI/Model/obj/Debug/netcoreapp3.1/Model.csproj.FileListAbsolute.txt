@@ -1,0 +1,61 @@
+/Users/shirui/Desktop/XIANGQI/Model/bin/Debug/netcoreapp3.1/Model.deps.json
+/Users/shirui/Desktop/XIANGQI/Model/bin/Debug/netcoreapp3.1/Model.runtimeconfig.json
+/Users/shirui/Desktop/XIANGQI/Model/bin/Debug/netcoreapp3.1/Model.runtimeconfig.dev.json
+/Users/shirui/Desktop/XIANGQI/Model/bin/Debug/netcoreapp3.1/Model.dll
+/Users/shirui/Desktop/XIANGQI/Model/bin/Debug/netcoreapp3.1/Model.pdb
+/Users/shirui/Desktop/XIANGQI/Model/obj/Debug/netcoreapp3.1/Model.csprojAssemblyReference.cache
+/Users/shirui/Desktop/XIANGQI/Model/obj/Debug/netcoreapp3.1/Model.AssemblyInfoInputs.cache
+/Users/shirui/Desktop/XIANGQI/Model/obj/Debug/netcoreapp3.1/Model.AssemblyInfo.cs
+/Users/shirui/Desktop/XIANGQI/Model/obj/Debug/netcoreapp3.1/Model.csproj.CoreCompileInputs.cache
+/Users/shirui/Desktop/XIANGQI/Model/obj/Debug/netcoreapp3.1/Model.dll
+/Users/shirui/Desktop/XIANGQI/Model/obj/Debug/netcoreapp3.1/Model.pdb
+/Users/shirui/Desktop/XIANGQI/Model/obj/Debug/netcoreapp3.1/Model.genruntimeconfig.cache
+G:/XIANGQI的副本/Model/bin/Debug/netcoreapp3.1/Model.exe
+G:/XIANGQI的副本/Model/bin/Debug/netcoreapp3.1/Model.deps.json
+G:/XIANGQI的副本/Model/bin/Debug/netcoreapp3.1/Model.runtimeconfig.json
+G:/XIANGQI的副本/Model/bin/Debug/netcoreapp3.1/Model.runtimeconfig.dev.json
+G:/XIANGQI的副本/Model/bin/Debug/netcoreapp3.1/Model.dll
+G:/XIANGQI的副本/Model/bin/Debug/netcoreapp3.1/Model.pdb
+G:/XIANGQI的副本/Model/obj/Debug/netcoreapp3.1/Model.csprojAssemblyReference.cache
+G:/XIANGQI的副本/Model/obj/Debug/netcoreapp3.1/Model.AssemblyInfoInputs.cache
+G:/XIANGQI的副本/Model/obj/Debug/netcoreapp3.1/Model.AssemblyInfo.cs
+G:/XIANGQI的副本/Model/obj/Debug/netcoreapp3.1/Model.csproj.CoreCompileInputs.cache
+G:/XIANGQI的副本/Model/obj/Debug/netcoreapp3.1/Model.dll
+G:/XIANGQI的副本/Model/obj/Debug/netcoreapp3.1/Model.pdb
+G:/XIANGQI的副本/Model/obj/Debug/netcoreapp3.1/Model.genruntimeconfig.cache
+/Users/shirui/Desktop/C# 象棋/XIANGQI for Windows/Model/bin/Debug/netcoreapp3.1/Model.deps.json
+/Users/shirui/Desktop/C# 象棋/XIANGQI for Windows/Model/bin/Debug/netcoreapp3.1/Model.runtimeconfig.json
+/Users/shirui/Desktop/C# 象棋/XIANGQI for Windows/Model/bin/Debug/netcoreapp3.1/Model.runtimeconfig.dev.json
+/Users/shirui/Desktop/C# 象棋/XIANGQI for Windows/Model/bin/Debug/netcoreapp3.1/Model.dll
+/Users/shirui/Desktop/C# 象棋/XIANGQI for Windows/Model/bin/Debug/netcoreapp3.1/Model.pdb
+/Users/shirui/Desktop/C# 象棋/XIANGQI for Windows/Model/obj/Debug/netcoreapp3.1/Model.csprojAssemblyReference.cache
+/Users/shirui/Desktop/C# 象棋/XIANGQI for Windows/Model/obj/Debug/netcoreapp3.1/Model.AssemblyInfoInputs.cache
+/Users/shirui/Desktop/C# 象棋/XIANGQI for Windows/Model/obj/Debug/netcoreapp3.1/Model.AssemblyInfo.cs
+/Users/shirui/Desktop/C# 象棋/XIANGQI for Windows/Model/obj/Debug/netcoreapp3.1/Model.csproj.CoreCompileInputs.cache
+/Users/shirui/Desktop/C# 象棋/XIANGQI for Windows/Model/obj/Debug/netcoreapp3.1/Model.dll
+/Users/shirui/Desktop/C# 象棋/XIANGQI for Windows/Model/obj/Debug/netcoreapp3.1/Model.pdb
+/Users/shirui/Desktop/C# 象棋/XIANGQI for Windows/Model/obj/Debug/netcoreapp3.1/Model.genruntimeconfig.cache
+/Users/shirui/Desktop/C#XiangQi/XIANGQI for Windows/Model/bin/Debug/netcoreapp3.1/Model.deps.json
+/Users/shirui/Desktop/C#XiangQi/XIANGQI for Windows/Model/bin/Debug/netcoreapp3.1/Model.runtimeconfig.json
+/Users/shirui/Desktop/C#XiangQi/XIANGQI for Windows/Model/bin/Debug/netcoreapp3.1/Model.runtimeconfig.dev.json
+/Users/shirui/Desktop/C#XiangQi/XIANGQI for Windows/Model/bin/Debug/netcoreapp3.1/Model.dll
+/Users/shirui/Desktop/C#XiangQi/XIANGQI for Windows/Model/bin/Debug/netcoreapp3.1/Model.pdb
+/Users/shirui/Desktop/C#XiangQi/XIANGQI for Windows/Model/obj/Debug/netcoreapp3.1/Model.csprojAssemblyReference.cache
+/Users/shirui/Desktop/C#XiangQi/XIANGQI for Windows/Model/obj/Debug/netcoreapp3.1/Model.AssemblyInfoInputs.cache
+/Users/shirui/Desktop/C#XiangQi/XIANGQI for Windows/Model/obj/Debug/netcoreapp3.1/Model.AssemblyInfo.cs
+/Users/shirui/Desktop/C#XiangQi/XIANGQI for Windows/Model/obj/Debug/netcoreapp3.1/Model.csproj.CoreCompileInputs.cache
+/Users/shirui/Desktop/C#XiangQi/XIANGQI for Windows/Model/obj/Debug/netcoreapp3.1/Model.dll
+/Users/shirui/Desktop/C#XiangQi/XIANGQI for Windows/Model/obj/Debug/netcoreapp3.1/Model.pdb
+/Users/shirui/Desktop/C#XiangQi/XIANGQI for Windows/Model/obj/Debug/netcoreapp3.1/Model.genruntimeconfig.cache
+/Users/shirui/Desktop/ChineseChess/XIANGQI/Model/bin/Debug/netcoreapp3.1/Model.deps.json
+/Users/shirui/Desktop/ChineseChess/XIANGQI/Model/bin/Debug/netcoreapp3.1/Model.runtimeconfig.json
+/Users/shirui/Desktop/ChineseChess/XIANGQI/Model/bin/Debug/netcoreapp3.1/Model.runtimeconfig.dev.json
+/Users/shirui/Desktop/ChineseChess/XIANGQI/Model/bin/Debug/netcoreapp3.1/Model.dll
+/Users/shirui/Desktop/ChineseChess/XIANGQI/Model/bin/Debug/netcoreapp3.1/Model.pdb
+/Users/shirui/Desktop/ChineseChess/XIANGQI/Model/obj/Debug/netcoreapp3.1/Model.csprojAssemblyReference.cache
+/Users/shirui/Desktop/ChineseChess/XIANGQI/Model/obj/Debug/netcoreapp3.1/Model.AssemblyInfoInputs.cache
+/Users/shirui/Desktop/ChineseChess/XIANGQI/Model/obj/Debug/netcoreapp3.1/Model.AssemblyInfo.cs
+/Users/shirui/Desktop/ChineseChess/XIANGQI/Model/obj/Debug/netcoreapp3.1/Model.csproj.CoreCompileInputs.cache
+/Users/shirui/Desktop/ChineseChess/XIANGQI/Model/obj/Debug/netcoreapp3.1/Model.dll
+/Users/shirui/Desktop/ChineseChess/XIANGQI/Model/obj/Debug/netcoreapp3.1/Model.pdb
+/Users/shirui/Desktop/ChineseChess/XIANGQI/Model/obj/Debug/netcoreapp3.1/Model.genruntimeconfig.cache
