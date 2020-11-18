@@ -3,7 +3,7 @@
 namespace Model
 {
     public class Chess
-    {
+    {                           //枚举
         public enum Player    //分为红黑两方
         {
             red,

@@ -4,10 +4,10 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="Control/Control.cs">
     <Files>
       <File FileName="Control/Control.cs" Line="165" Column="50" IsPinned="True" />
-      <File FileName="Control/PieceControl/Cannon.cs" />
-      <File FileName="Control/PieceControl/Elephant.cs" />
-      <File FileName="Control/PieceControl/General.cs" />
-      <File FileName="Control/PieceControl/Horse.cs" />
+      <File FileName="Control/PieceControl/Cannon.cs" Line="6" Column="19" />
+      <File FileName="Control/PieceControl/Elephant.cs" Line="6" Column="21" />
+      <File FileName="Control/PieceControl/General.cs" Line="6" Column="20" />
+      <File FileName="Control/PieceControl/Horse.cs" Line="6" Column="18" />
       <File FileName="Control/PieceControl/Rook.cs" />
       <File FileName="Control/PieceControl/Soldier.cs" />
       <File FileName="Model/Board.cs" />

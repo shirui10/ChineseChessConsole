@@ -2,7 +2,7 @@
 
 namespace Model
 {
-    public class ProMod : Chess
+    public class ProMod: Chess
     {
         static void Main(string[] args)
         {

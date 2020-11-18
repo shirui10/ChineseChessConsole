@@ -3,11 +3,11 @@ using Model;
 
 namespace Control
 {
-    class Advisor
+    class Advisor: ProCon
     {
         public bool Shi(int X, int Y, int chozenX, int chozenY, Chess[,] Matrix)
         {
-            ProCon con = new ProCon();
+            
 
             if (Matrix[chozenX, chozenY].side == Chess.Player.black)
             {
@@ -34,7 +34,7 @@ namespace Control
                 return false;
             }
 
-            con.SetMove(X, Y, chozenX, chozenY, Matrix);
+            SetMove(X, Y, chozenX, chozenY, Matrix);
 
             return true;
         }

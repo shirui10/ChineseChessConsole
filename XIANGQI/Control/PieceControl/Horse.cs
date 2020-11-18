@@ -3,11 +3,10 @@ using Model;
 
 namespace Control
 {
-    class Horse
+    class Horse: ProCon
     {
         public bool Ma(int X, int Y, int chozenX, int chozenY, Chess[,] Matrix)
         {
-            ProCon con = new ProCon();
 
             if (Math.Abs(chozenX / 2 - X / 2) == 1 && Math.Abs(chozenY - Y) == 4)
             {
@@ -33,7 +32,7 @@ namespace Control
                 return false;
             }
 
-            con.SetMove(X, Y, chozenX, chozenY, Matrix);
+            SetMove(X, Y, chozenX, chozenY, Matrix);
 
             return true;
         }

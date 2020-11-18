@@ -3,11 +3,10 @@ using Model;
 
 namespace Control
 {
-    class General
+    class General: ProCon
     {
         public bool Jiang(int X, int Y, int chozenX, int chozenY, Chess[,] Matrix)
         {
-            ProCon con = new ProCon();
             int i, j, k;
 
             if (chozenX == X)
@@ -42,7 +41,7 @@ namespace Control
                     return false;
                 }
 
-                con.SetMove(X, Y, chozenX, chozenY, Matrix);
+                SetMove(X, Y, chozenX, chozenY, Matrix);
 
                 return true;
             }
@@ -72,7 +71,7 @@ namespace Control
                 return false;
             }
 
-            con.SetMove(X, Y, chozenX, chozenY, Matrix);
+            SetMove(X, Y, chozenX, chozenY, Matrix);
 
             return true;
         }

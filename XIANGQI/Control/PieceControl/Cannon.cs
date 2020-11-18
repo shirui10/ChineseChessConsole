@@ -3,11 +3,10 @@ using Model;
 
 namespace Control
 {
-    class Cannon
+    class Cannon: ProCon
     {
         public bool Pao(int X, int Y, int chozenX, int chozenY, Chess[,] Matrix)
         {
-            ProCon con = new ProCon();
             int i, j, k, n;
 
             if (chozenX == X)
@@ -68,7 +67,7 @@ namespace Control
                 return false;
             }
 
-            con.SetMove(X, Y, chozenX, chozenY, Matrix);
+            SetMove(X, Y, chozenX, chozenY, Matrix);
 
             return true;
         }
