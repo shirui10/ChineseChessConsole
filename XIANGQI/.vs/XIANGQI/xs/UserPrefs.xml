@@ -1,15 +1,15 @@
 ﻿<Properties StartupConfiguration="{373AAAF3-E28D-462B-BF55-8069998CD7BC}|Default">
   <MonoDevelop.Ide.ItemProperties.Control PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.View PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Control/Control.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Control/PieceControl/Soldier.cs">
     <Files>
       <File FileName="Control/Control.cs" Line="165" Column="50" IsPinned="True" />
-      <File FileName="Control/PieceControl/Cannon.cs" Line="6" Column="19" />
-      <File FileName="Control/PieceControl/Elephant.cs" Line="6" Column="21" />
-      <File FileName="Control/PieceControl/General.cs" Line="6" Column="20" />
-      <File FileName="Control/PieceControl/Horse.cs" Line="6" Column="18" />
+      <File FileName="Control/PieceControl/Cannon.cs" />
+      <File FileName="Control/PieceControl/Elephant.cs" />
+      <File FileName="Control/PieceControl/General.cs" />
+      <File FileName="Control/PieceControl/Horse.cs" />
       <File FileName="Control/PieceControl/Rook.cs" />
-      <File FileName="Control/PieceControl/Soldier.cs" />
+      <File FileName="Control/PieceControl/Soldier.cs" Line="1" Column="1" />
       <File FileName="Model/Board.cs" />
       <File FileName="Display/View.cs" />
       <File FileName="Model/Pieces.cs" />
@@ -20,8 +20,9 @@
         <State name="__root__">
           <Node name="XiangQi" expanded="True">
             <Node name="Control" expanded="True">
-              <Node name="PieceControl" expanded="True" />
-              <Node name="Control.cs" selected="True" />
+              <Node name="PieceControl" expanded="True">
+                <Node name="Soldier.cs" selected="True" />
+              </Node>
             </Node>
             <Node name="Model" expanded="True" />
             <Node name="View" expanded="True" />
