@@ -1,4 +1,4 @@
-# ChineseChess
+# Chinese Chess
 
 Chinese Chess is also called Xiang Qi, it is a famous and interesting game with a long history.
 
